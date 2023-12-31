@@ -51,6 +51,14 @@ main {
 h2 {
     padding: 20px;
 }
+h3
+{
+    font-size: 48px;
+}
+p
+{
+    font-size: 25px;
+}
 
 section:nth-child(even) {
     background-color: rgb(241, 241, 241);
